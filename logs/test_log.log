@@ -1,0 +1,6 @@
+2025-07-07 11:15:39,219 - INFO - Installer started.
+2025-07-07 11:15:53,882 - INFO - TEST PASSED: tests/test_installer.py::test_checkbox_can_be_checked
+2025-07-07 11:15:53,884 - INFO - Closing the installer
+2025-07-07 11:15:54,003 - INFO - Installer started.
+2025-07-07 11:16:07,017 - INFO - TEST PASSED: tests/test_installer.py::test_cancel_setup_triggers_confirmation
+2025-07-07 11:16:07,017 - INFO - Closing the installer
