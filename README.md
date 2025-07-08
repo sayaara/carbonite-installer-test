@@ -69,6 +69,12 @@ pip install -r requirements.txt
 
 To execute the test suite, run the following command:
 
+Tests require administrator privileges
+
+1. Open Command Prompt as Administrator.
+2. Navigate to the project folder.
+3. Run the following command
+
 ```bash
 pytest -v
 ```
